@@ -1,0 +1,10 @@
+.transition {
+    transition: all 0.1s linear;
+    -webkit-transition: all 0.1s linear;
+    -moz-transition: all 0.1s linear;
+    -ms-transition: all 0.1s linear;
+    -o-transition: all 0.1s linear;
+}
+*:focus-visible {
+    outline: none;
+}
